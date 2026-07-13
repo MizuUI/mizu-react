@@ -41,6 +41,8 @@ TBC
 React:
 TBC
 
+Icons: npm install @mizuui/icons
+
 ## About MizuUI
 
 MizuUI is an independent open-source project derived from the final
